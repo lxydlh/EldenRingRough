@@ -52,8 +52,6 @@
 .vs/elden_ring_item_randomiser/v16/ipch/AutoPCH/ee2caca64abb030/DLLMAIN.ipch
 .vs/elden_ring_item_randomiser/v16/ipch/AutoPCH/f2fc341bd5ea1bdf/STDINT.ipch
 .vs/elden_ring_item_randomiser/v16/ipch/AutoPCH/f46a82a5e3276d41/RANDOMISER.ipch
-elden_ring_item_randomiser/elden_ring_item_randomiser.vcxproj
-elden_ring_item_randomiser/elden_ring_item_randomiser.vcxproj.filters
 elden_ring_item_randomiser/elden_ring_item_randomiser.vcxproj.user
 *.csv
 *.xlsx
